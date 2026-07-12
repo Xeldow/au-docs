@@ -10,7 +10,12 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   srcExclude: ['README.md'], // 维护者说明，不作为站点页面
+  // 浏览器标签页图标（favicon）。public/ 下资源在站点根，故带 base 前缀。
+  head: [
+    ['link', { rel: 'icon', href: '/au-docs/favicon.ico' }],
+  ],
   themeConfig: {
+    logo: '/logo.png', // 导航栏左上角 logo
     nav: [
       { text: '首页', link: '/' },
       { text: '使用说明', link: '/guide/' },
