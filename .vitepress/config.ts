@@ -9,7 +9,7 @@ export default defineConfig({
   base: '/au-docs/',
   lastUpdated: true,
   cleanUrls: true,
-  srcExclude: ['README.md', '_notes/**'], // 维护者说明/运维笔记，不作为站点页面
+  srcExclude: ['README.md', '_notes/**', 'CHANGELOG.md'], // 维护者说明/运维笔记，不作为站点页面
   // 浏览器标签页图标（favicon）。public/ 下资源在站点根，故带 base 前缀。
   head: [
     ['link', { rel: 'icon', href: '/au-docs/favicon.ico' }],
