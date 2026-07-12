@@ -28,6 +28,8 @@ export default defineConfig({
           items: [
             { text: '概览', link: '/guide/' },
             { text: 'Au 触摸条', link: '/guide/au-touch-bar' },
+            { text: '单指模式', link: '/guide/one-hand-mode' },
+            { text: '数据备份与恢复', link: '/guide/backup' },
           ],
         },
       ],
