@@ -13,6 +13,7 @@ export default defineConfig({
   // 浏览器标签页图标（favicon）。public/ 下资源在站点根，故带 base 前缀。
   head: [
     ['link', { rel: 'icon', href: '/au-docs/favicon.ico' }],
+    ['meta', { name: 'robots', content: 'noindex, nofollow' }],
   ],
   themeConfig: {
     logo: '/logo.png', // 导航栏左上角 logo

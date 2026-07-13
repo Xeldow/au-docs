@@ -4,11 +4,10 @@ AnotherU 各版本更新记录与安装包下载。
 
 ## 下载
 
-前往 GitHub Releases 下载最新安装包：
+请选择以下渠道下载最新安装包：
 
-- 📦 **[前往下载页 →](https://github.com/Xeldow/AnotherU/releases/latest)**
-
-> 若下载页暂无安装包，说明最新版本尚未发布 Release，请稍后再来。
+- 🚀 **[腾讯应用宝下载 (主渠道) →](https://sj.qq.com/appdetail/com.xad.anotheru?supply_id=2702800336&ocpc=0&platform=bing&account_id=300000000&landing_type=pcyyb&keyword_id=1726113027077&plan_id=1726113027077&group_id=1726113027077&creative_id=1726113027077&q=Anotheru&use_previous_query=1)**
+- 📦 **[蓝奏云下载 →](https://lanzou.com/placeholder-link)** *(真实链接待提供)*
 
 ## 版本历史
 
@@ -16,6 +15,3 @@ AnotherU 各版本更新记录与安装包下载。
 
 > 内容待补充。
 
----
-
-> 完整变更记录见仓库 [CHANGELOG](https://github.com/Xeldow/au-docs/blob/main/CHANGELOG.md)。
