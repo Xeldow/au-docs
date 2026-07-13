@@ -28,9 +28,13 @@ export default defineConfig({
           text: '使用说明',
           items: [
             { text: '概览', link: '/guide/' },
+            { text: '登录与注册', link: '/guide/login' },
             { text: 'Au 触摸条', link: '/guide/au-touch-bar' },
+            { text: 'Au 面板设置', link: '/guide/panel-settings' },
+            { text: 'Au 面板操作项', link: '/guide/panel-items' },
             { text: '单指模式', link: '/guide/one-hand-mode' },
             { text: '数据备份与恢复', link: '/guide/backup' },
+            { text: '权限管理', link: '/guide/permissions' },
           ],
         },
       ],
