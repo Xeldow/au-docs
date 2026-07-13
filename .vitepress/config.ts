@@ -1,18 +1,18 @@
 import { defineConfig } from 'vitepress'
 
-// GitHub Pages 部署在 https://<user>.github.io/au-docs/ ，故 base 设为仓库名。
+// GitHub Pages 部署在自定义域名 https://docs.anotheru.cn/ 下，故 base 设为 '/'。
 // 本地 dev 时 base 不影响预览。
 export default defineConfig({
   lang: 'zh-CN',
   title: 'AnotherU',
   description: 'AnotherU 用户使用说明与更新日志',
-  base: '/au-docs/',
+  base: '/',
   lastUpdated: true,
   cleanUrls: true,
   srcExclude: ['README.md', '_notes/**', 'CHANGELOG.md'], // 维护者说明/运维笔记，不作为站点页面
-  // 浏览器标签页图标（favicon）。public/ 下资源在站点根，故带 base 前缀。
+  // 浏览器标签页图标（favicon）。
   head: [
-    ['link', { rel: 'icon', href: '/au-docs/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'robots', content: 'noindex, nofollow' }],
   ],
   themeConfig: {
