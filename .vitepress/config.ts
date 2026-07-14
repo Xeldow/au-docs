@@ -9,7 +9,7 @@ export default defineConfig({
   base: '/',
   lastUpdated: true,
   cleanUrls: true,
-  srcExclude: ['README.md', '_notes/**', 'CHANGELOG.md'], // 维护者说明/运维笔记，不作为站点页面
+  srcExclude: ['README.md', '_notes/**'], // 维护者说明/运维笔记，不作为站点页面
   // 浏览器标签页图标（favicon）。
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
