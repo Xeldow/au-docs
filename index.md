@@ -7,17 +7,20 @@ hero:
   tagline: 功能怎么用 · 版本更新了什么 · 从哪里下载
   actions:
     - theme: brand
-      text: 开始使用
-      link: /guide/
+      text: 下载 App
+      link: /download/
     - theme: alt
-      text: 更新日志
-      link: /changelog/
+      text: 使用说明
+      link: /guide/
 
 features:
+  - title: 下载
+    details: 获取最新版 AnotherU 安装包。
+    link: /download/
   - title: 使用说明
-    details: 每个上线功能配一份说明书，教你怎么用。
+    details: 各功能的使用方法与各品牌手机适配指南。
     link: /guide/
   - title: 更新日志
-    details: 版本更新记录与最新安装包下载。
+    details: 版本更新记录，了解每次更新了什么。
     link: /changelog/
 ---

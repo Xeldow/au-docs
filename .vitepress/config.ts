@@ -19,8 +19,8 @@ export default defineConfig({
     logo: '/logo.png', // 导航栏左上角 logo
     nav: [
       { text: '首页', link: '/' },
-      { text: '使用说明', link: '/guide/' },
       { text: '下载', link: '/download/' },
+      { text: '使用说明', link: '/guide/' },
       { text: '更新日志', link: '/changelog/' },
     ],
     sidebar: {
