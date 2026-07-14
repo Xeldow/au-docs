@@ -5,13 +5,6 @@ hero:
   name: AnotherU
   text: 用户使用说明
   tagline: 功能怎么用 · 版本更新了什么 · 从哪里下载
-  actions:
-    - theme: brand
-      text: 下载 App
-      link: /download/
-    - theme: alt
-      text: 使用说明
-      link: /guide/
 
 features:
   - title: 下载
