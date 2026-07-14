@@ -20,6 +20,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '使用说明', link: '/guide/' },
+      { text: '下载', link: '/download/' },
       { text: '更新日志', link: '/changelog/' },
     ],
     sidebar: {
@@ -28,9 +29,9 @@ export default defineConfig({
           text: '使用说明',
           items: [
             { text: '概览', link: '/guide/' },
-            { text: '数据备份与恢复', link: '/guide/backup' },
             { text: '辅助功能设置', link: '/guide/accessibility' },
             { text: '保活设置', link: '/guide/keep-alive' },
+            { text: '数据备份与恢复', link: '/guide/backup' },
           ],
         },
       ],
