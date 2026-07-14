@@ -20,22 +20,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '下载', link: '/download/' },
-      { text: '使用说明', link: '/guide/' },
       { text: '更新日志', link: '/changelog/' },
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          text: '使用说明',
-          items: [
-            { text: '概览', link: '/guide/' },
-            { text: '辅助功能设置', link: '/guide/accessibility' },
-            { text: '保活设置', link: '/guide/keep-alive' },
-            { text: '数据备份与恢复', link: '/guide/backup' },
-          ],
-        },
-      ],
-    },
     outline: { label: '本页目录', level: [2, 3] },
     docFooter: { prev: '上一篇', next: '下一篇' },
     darkModeSwitchLabel: '主题',
