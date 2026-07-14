@@ -1,7 +1,6 @@
-# AnotherU Documentation
+# AnotherU 使用说明
 
-This repository contains the source code for the AnotherU user documentation and changelog site.
+AnotherU 的用户使用说明与更新日志。
 
-The site is built using VitePress and deployed to GitHub Pages.
-
-For more information, please visit the official documentation site.
+- 在线文档：https://docs.anotheru.cn
+- 应用下载：https://docs.anotheru.cn/changelog/
