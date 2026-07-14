@@ -4,8 +4,8 @@ import { defineConfig } from 'vitepress'
 // 本地 dev 时 base 不影响预览。
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'AnotherU',
-  description: 'AnotherU 用户使用说明与更新日志',
+  title: 'Anotheru',
+  description: 'Anotheru 用户使用说明与更新日志',
   base: '/',
   lastUpdated: true,
   cleanUrls: true,
