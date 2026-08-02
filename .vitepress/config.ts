@@ -16,7 +16,7 @@ export default defineConfig({
     ['meta', { name: 'robots', content: 'noindex, nofollow' }],
   ],
   themeConfig: {
-    logo: '/logo.png', // 导航栏左上角 logo
+    logo: '/logo.webp', // 导航栏左上角 logo（圆角版）
     nav: [
       { text: '首页', link: '/' },
       { text: '下载', link: '/download/' },
