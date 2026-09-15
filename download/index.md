@@ -4,4 +4,3 @@
 
 - 🚀 **[腾讯应用宝下载 (主渠道) →](https://sj.qq.com/appdetail/com.xad.anotheru?supply_id=2702800336&ocpc=0&platform=bing&account_id=300000000&landing_type=pcyyb&keyword_id=1726113027077&plan_id=1726113027077&group_id=1726113027077&creative_id=1726113027077&q=Anotheru&use_previous_query=1)**
 - 📦 **[码云固定链接下载 →](https://gitee.com/sws-nother/au-publish/releases/download/latest/Anotheru.apk)** — 始终指向最新 APK（当前 v1.0.3）
-- 📦 **[蓝奏云下载 →](https://anotheru.lanzoul.com/iNJ2H48bf6te)** — 最新版 v1.0.3（重发版，versionCode 10）
